@@ -3,8 +3,8 @@ version 35
 __lua__
 x = 64
 y = 64
-s = 2
-d = 3
+s = 2 
+d = 3 
 function _init_()
 end 
 	
