@@ -22,7 +22,7 @@ Study story will give users a place to be productive in a timely manner. The use
 Study story will use Pico-8 
 
 2.2 Domain Model with Description
-![Pipe & Filter] (IMG_0656.jpg)
+![Pipe & Filter](IMG_0656.jpg)
 
 2.3 Product Functions (general)
 Study Story capabilities: 

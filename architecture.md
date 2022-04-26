@@ -32,6 +32,6 @@
 ## Pipe And Filter 
 I decded to go with Pipe & Filter due to the simple nature of my components. There aren't a ton of moving parts. The main components are between the room collosions and the sprite representing the user. The user needs to be able to ineract with objects in the room and they perform their tasks. The bulk of the work is in the looks, feel, and some of the logic for colloisions/ interactions. 
 
-[Pipe&Filter](BiSH/IMG_0656.jpg)
+![Pipe&Filter](BiSH/IMG_0656.jpg)
 
 
