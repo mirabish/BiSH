@@ -1,5 +1,5 @@
 # Requirements for Study Story 
-[All Links](index.md)
+[All Links](README.md)
 
 1. Introduction
 1.1 Purpose of Product

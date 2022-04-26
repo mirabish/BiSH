@@ -1,6 +1,4 @@
-# Study Story Architecture 
-[Back to home](mirabish.github.io/bish/)
-
+# Study Story Architecture
 
 ## Key Archictecture Drivers 
 * Process oriented decomposition

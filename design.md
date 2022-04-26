@@ -1,3 +1,3 @@
 # Design Document 
 
-[name to give link] (index.html/index.md)
+[name to give link] (README.md)
