@@ -12,8 +12,8 @@ The product will be set up in a game environment with an avatar in a virtual roo
 N/A
 
 1.4 References
-[Pico-8] (https://www.lexaloffle.com/pico-8.php?page=manual)
-[Shortcuts] (https://iiviigames.github.io/pico8-api/)
+[Pico-8](https://www.lexaloffle.com/pico-8.php?page=manual)
+[Shortcuts](https://iiviigames.github.io/pico8-api/)
 
 2. General Description of Product
 Study story will give users a place to be productive in a timely manner. The user will priortize Study Story for goal setting and achieving.
@@ -45,4 +45,4 @@ N/A
 
 
 5. Appendices
-[pico-8] (https://www.lexaloffle.com/pico-8.php?page=manual)
+[pico-8](https://www.lexaloffle.com/pico-8.php?page=manual)
