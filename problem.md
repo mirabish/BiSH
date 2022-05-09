@@ -27,4 +27,3 @@ The main functions Study Story will do is:
 ## External requirements 
  User will need a Lexolaffle account
 
-[name to give link] (index.html/index.md)
