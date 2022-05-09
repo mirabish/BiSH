@@ -8,12 +8,12 @@ Pipe and filter fit the system best because of the smaller scope of the project.
 
 ## Breaking it into Classes 
 ## Filter
-*Responsibility- gets data input
+* Responsibility- gets data input
   * Checking collisions in code: This filter takes in the flag tiles and actively checks to make sure the character is not overstepping on to the tile flags that mark boundaries like walls or objects. 
   * Interactions in code: This filter checks to see if the sprite is near the stereo object to play music while the user stays on task
  
 ## Pipe
-*Responsibility- transfer information 
+* Responsibility- transfer information 
  * Character movement- moves the sprite in the map 8 bits at a time in the 2D plane 
  * Music- transfers music signals from the music editor based on length, pitch, tone, etc. 
 
