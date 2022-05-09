@@ -10,6 +10,10 @@ BiSH's Bots- Team: Miranda Bishard
 
 ![Preview](pico.png)
 
+[Play Study Story] (https://www.lexaloffle.com/bbs/?tid=47735)
+
+Click on link to play game. Follow version releases to understand each iteration and build. Code commented best to help. Embedded code in the cartridge is included in the Lexaloffle website. 
+
 ## Demo 1 
 In Demo 1, I spent a lot of time just getting familiar with the pico-8 interface. I spent time working on drawing a sprite, moving it around the screen, making new sprites, animating them, looking through documentation. The main focus was to get a character in a room and get the boundaries in place to have an overall feel. There wasn't a lot that went into stylistic choices due to not really knowing how to design and make it look nice. I followed some basic tutorials to get a sprite moving along on a map, i went with a frog sprite.
 
