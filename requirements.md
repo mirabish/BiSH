@@ -37,7 +37,7 @@ Most users would be around highschool/ college students. They need to study but 
 N/A
 
 3. Functional Requirements
-[User Stories](requirements.md)
+[User Stories](userstories.md)
 
 4. System and Non-functional Requirements
 4.1 External Interface Requirements 
