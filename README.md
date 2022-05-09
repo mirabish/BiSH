@@ -10,7 +10,7 @@ BiSH's Bots- Team: Miranda Bishard
 
 ![Preview](pico.png)
 
-[Play Study Story] (https://www.lexaloffle.com/bbs/?tid=47735)
+[Play Study Story](https://www.lexaloffle.com/bbs/?tid=47735)
 
 Click on link to play game. Follow version releases to understand each iteration and build. Code commented best to help. Embedded code in the cartridge is included in the Lexaloffle website. 
 
